@@ -25,7 +25,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "branch",
     "kotlin-language-version-configured": "true",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
@@ -47,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726206230380</updated>
-      <workItem from="1726206231418" duration="173000" />
+      <workItem from="1726206231418" duration="225000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <option name="closed" value="true" />
